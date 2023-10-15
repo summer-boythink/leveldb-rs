@@ -3,7 +3,7 @@
 [![crates.io](https://img.shields.io/crates/v/rusty-leveldb.svg)](https://crates.io/crates/rusty-leveldb)
 
 A fully compatible implementation of LevelDB in Rust. (any incompatibility is a
-bug!)
+bug!)11
 
 The implementation is very close to the original; often, you can see the same
 algorithm translated 1:1, and class (struct) and method names are similar or
